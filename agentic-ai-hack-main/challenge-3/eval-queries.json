@@ -1,0 +1,22 @@
+[
+  {
+    "query": "According to our motorcycle policy documents, what specific coverage options and limits are available for motorcycle insurance?",
+    "ground-truth": "The motorcycle policy should include comprehensive coverage, collision coverage, liability coverage, and uninsured/underinsured motorist coverage options with specific policy limits and deductibles."
+  },
+  {
+    "query": "Based on our comprehensive auto policy, is vehicle theft covered and what are the coverage details?",
+    "ground-truth": "Yes, theft is typically covered under comprehensive coverage with applicable deductibles and policy limits."
+  },
+  {
+    "query": "What are the specific liability coverage limits outlined in our commercial auto policies?",
+    "ground-truth": "Commercial auto policies typically have higher liability limits than personal policies, with specific limits for bodily injury per person, bodily injury per accident, and property damage per accident."
+  },
+  {
+    "query": "According to our high value vehicle policy documentation, what coverage is provided for custom vehicle modifications and aftermarket parts?",
+    "ground-truth": "High value vehicle policies may cover custom modifications and aftermarket parts, but this often requires additional coverage or endorsements with proper documentation."
+  },
+  {
+    "query": "What specific exclusions and limitations are listed in our liability only auto policies?",
+    "ground-truth": "Liability only policies exclude comprehensive and collision coverage, meaning damage to the insured vehicle from accidents, theft, vandalism, or natural disasters is not covered."
+  }
+]
